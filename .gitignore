@@ -1,4 +1,6 @@
 /node_modules
 keypair
 *.pub
-.DS_Store
+/.DS_Store
+/env
+/.gitignore
